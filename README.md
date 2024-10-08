@@ -1,6 +1,5 @@
 # 🎃 Halloween Candy Selection Project
-
-![Halloween Candy](https://images.unsplash.com/photo-1604901857784-0a5c9478d50b) 
+![Dashboard](https://github.com/RobXplorer/mv-halo-cha/blob/master/Malven%20Challenge.JPG)
 
 ## Overview
 This project leverages data-driven insights to determine the optimal candies to distribute on Halloween, ensuring that every trick-or-treater finds something they love. By analyzing a dataset of 85 different candy types ranked by online votes, the top three treats are identified to cater to diverse tastes.
